@@ -1,0 +1,296 @@
+LOC:Kitchen
+You are in the kitchen of the white house. A table seems to have been used recently for the preparation of food. A passage leads to the west and a dark staircase can be seen leading upward. To the east is a small window which is open.
+
+LOC:Living Room
+You are in the living room. There is a door to the east, a wooden door with strange gothic lettering to the west, which appears to be nailed shut, and a large oriental rug in the center of the room.
+
+LOC:Attic
+This is the attic. The only exit is stairs that lead down.
+
+LOC:Cellar
+You are in a dark and damp cellar with a narrow passageway leading east, and a crawlway to the south. On the west is the bottom of a steep metal ramp which is unclimbable.
+
+LOC:West of Chasm
+You are on the west edge of a chasm, the bottom of which cannot be seen. The east side is sheer rock, providing no exits. A narrow passage goes west, and the path you are on continues to the north and south.
+
+LOC:The Troll Room
+This is a small room with passages off in all directions. Bloodstains and deep scratches (perhaps made by an axe) mar the walls.
+
+LOC:North-South Crawlway
+This is a north-south crawlway; a passage goes to the east also. There is a hole above, but it provides no opportunities for climbing.
+
+LOC:Art Gallery
+This is an art gallery. Most of the paintings which were here have been stolen by vandals with exceptional taste. The vandals left through either the north, south, or west exits. Fortunately, there is still one chance for you to be a vandal, for on the far wall is a work of unparalleled beauty.
+
+LOC:Bank Entrance
+This is the large entrance hall of the Bank of Zork, the largest banking institution of the Great Underground Empire. A partial account of its history is in 'The Lives of the Twelve Flatheads' with the chapter on J. Pierpont Flathead. A more detailed history (albeit less objective) may be found in Flathead's outrageous autobiography 'I'm Rich and You Aren't - So There!'. Most of the furniture has been ravaged by passing scavengers. All that remains are two signs at the Northwest and Northeast corners of the room.
+
+LOC:West Teller's Room
+You are in a small square room, which was used by a bank officer whose job it was to retrieve safety deposit boxes for the customer. On the north side of the room is a sign which reads 'Viewing Room'. On the west side of room, above an open door is a sign reading.
+
+LOC:Viewing Room
+This is a room used by holders of safety deposit boxes to view their contents. On the north side of the room is a sign which says "Thank You for banking at the Zork!"
+
+LOC:Safety Depository
+This is a large rectangular room. The east and west walls here were used for storing safety deposit boxes. As might be expected, all have been carefully removed by evil persons. To the east, west, and south of the room are large doorways. The northern 'wall' of the room is a shimmering curtain of light. In the center of the room is a large stone cube, about 10 feet on a side. Engraved on the side of the cube is some lettering.
+
+LOC:East Teller's Room
+You are in a small square room, which was used by a bank officer whose job it was to retrieve safety deposit boxes for the customer. On the north side of the room is a sign which reads 'Viewing Room'. On the east side of room, above an open door is a sign reading.
+
+LOC:Chairman's Office
+This room was the office of the Chairman of the Bank of Zork. Like the other rooms here, it has been extensively vandalized. The lone exit is to the north.
+
+LOC:Artist's Studio
+This is what appears to have been an artist's studio. The walls and floors are splattered with paints of 69 different colors. Strangely enough, nothing of value is hanging here. At the north and northwest of the room are open doors (also covered with paint). An extremely dark and narrow chimney leads up from a fireplace; although you might be able to get up it, it seems unlikely you could get back down.
+
+LOC:East-West Passage
+This is a narrow east-west passageway. There is a narrow stairway leading down at the north end of the room.
+
+LOC:Round Room
+You are in a circular room with passages off in eight directions. Your compass needle spins wildly, and you can't get your bearings. Unfortunately, it is impossible to tell directions in here.
+
+LOC:Engravings Cave
+You have entered a cave with passages leading north and southeast. There are old engravings on the walls here.
+
+LOC:Riddle Room
+This is a room which is bare on all sides. There is an exit down. To the east is a great door made of stone. Above the stone, the following words are written: 'No man shall enter this room without solving this riddle: What is tall as a house, round as a cup, and all the king's horses can't draw it up?'
+
+LOC:Pearl Room
+This is a former broom closet. The exits are to the east and west.
+
+LOC:Circular Room
+This is a damp circular room, whose walls are made of brick and mortar. The roof of this room is not visible, but there appear to be some etchings on the walls. There is a passageway to the west.
+
+LOC:Entrance to Hades
+You are outside a large gateway, on which is inscribed "Abandon every hope, all ye who enter here." The gate is open; through it you can see a desolation, with a pile of mangled corpses in one corner. Thousands of voices, lamenting some hideous fate, can be heard. The way through the gate is barred by evil spirits, who jeer at your attempts to pass.
+
+LOC:Tiny Cave
+This is a tiny cave with entrances west and north, and a dark, forbidding staircase leading down.
+
+LOC:Mirror Room
+You are in a large square room with tall ceilings. On the south wall is an enormous mirror which fills the entire wall. There are exits on the other three sides of the room.
+
+LOC:Narrow Crawlway
+This is a narrow crawlway. The crawlway leads from north to south. However the south passage divides to the south and southwest.
+
+LOC:Winding Passage
+This is a winding passage. It seems that there is only an exit on the east end although the whirring from the round room can be heard faintly to the north.
+
+LOC:Grail Room
+You are standing in a small circular room with a pedestal. A set of stairs leads up, and passages leave to the east and west.
+
+LOC:Temple (West End)
+This is the west end of a large temple. On the south wall is an ancient inscription, probably a prayer in a long-forgotten language. The north wall is solid granite. The entrance at the west end of the room is through huge marble pillars.
+
+LOC:Temple (East End)
+This is the east end of a large temple. In front of you is what appears to be an altar.
+
+LOC:North-South Passage
+This is a high north-south passage, which forks to the northeast.
+
+LOC:Deep Canyon
+You are on the south edge of a deep canyon. Passages lead off to the east, south, and northwest. You can hear the sound of flowing water below.
+
+LOC:Forest
+This is a forest, with trees in all directions around you.
+
+LOC:Forest Path
+This is a dimly lit forest, with large trees all around. To the east, there appears to be sunlight.
+
+LOC:Clearing
+You are in a clearing, with a forest surrounding you on the west and south.
+
+LOC:Forest (Large Tree)
+This is a dimly lit forest, with large trees all around. One particularly large tree with some low branches stands here.
+
+LOC:Up a Tree
+You are about 10 feet above the ground nestled among some large branches. The nearest branch above you is above your reach.
+
+LOC:North of House
+You are facing the north side of a white house. There is no door here, and all the windows are barred.
+
+LOC:Behind House
+You are behind the white house. In one corner of the house there is a small window.
+
+LOC:South of House
+You are facing the south side of a white house. There is no door here, and all the windows are barred.
+
+LOC:West of House
+This is an open field west of a white house, with a boarded front door.
+
+LOC:Land of the Living Dead
+You have entered the Land of the Living Dead, a large desolate room. Although it is apparently uninhabited, you can hear the sounds of thousands of lost souls weeping and moaning. In the east corner are stacked the remains of dozens of previous adventurers who were less fortunate than yourself. To the east is an ornate passage, apparently recently constructed. A passage exits to the west.
+
+LOC:Tomb of the Unknown Implementer
+This is the Tomb of the Unknown Implementer. A hollow voice says: "That's not a bug, it's a feature!" In the north wall of the room is the Crypt of the Implementers. It is made of the finest marble, and apparently large enough for four headless corpses. The crypt is closed. Above the entrance is the cryptic inscription: "Feel Free."
+
+LOC:Dead End
+You have come to a dead end in the maze.
+
+LOC:Maze
+This is part of a maze of twisty little passages, all alike.
+
+LOC:Deep Ravine
+This is a deep ravine at a crossing with an east-west crawlway. Some stone steps are at the south of the ravine and a steep staircase descends.
+
+LOC:Reservoir South
+You are in a long room on the south shore of a large reservoir. There is a western exit, a passageway south, and a steep pathway climbing up along the edge of a cliff.
+
+LOC:Stream View
+You are standing on a path beside a gently flowing stream. The path travels to the north and the east.
+
+LOC:Glacier Room
+This is a large room, with giant icicles hanging from the walls and ceiling. There are passages to the north and east. A mass of ice fills the western half of the room.
+
+LOC:Egyptian Room
+This is a room which looks like an Egyptian tomb. There is an ascending staircase in the room as well as doors, east and south.
+
+LOC:Rocky Crawl
+This is a crawlway with a three-foot high ceiling. Your footing is very unsure here due to the assortment of rocks underfoot. Passages can be seen in the east, west, and northwest corners of the passage.
+
+LOC:Dome Room
+You are at the periphery of a large dome, which forms the ceiling of another room below. Protecting you from a precipitous drop is a wooden railing which circles the dome.
+
+LOC:Torch Room
+This is a large room with a prominent doorway leading to a down staircase. To the west is a narrow twisting tunnel, covered with a thin layer of dust. Above you is a large dome painted with scenes depicting elfin hacking rites. Up around the edge of the dome (20 feet up) is a wooden railing. In the center of the room there is a white marble pedestal.
+
+LOC:Volcano View
+You are on a ledge in the middle of a large volcano. Below you the volcano bottom can be seen and above is the rim of the volcano. A couple of ledges can be seen on the other side of the volcano; it appears that this ledge is intermediate in elevation between those on the other side. The exit from this room is to the east.
+
+LOC:Tiny Room
+This is a tiny room, which has an exit to the east. On the north side of the room is a massive wooden door, near the top of which, in the center, is a window barred with iron. A formidable bolt lock is set within the door frame. A keyhole covered by a thin metal lid lies within the lock.
+
+LOC:Small Room
+This is a small, bare room with no distinguishing features. There are no exits from this room.
+
+OBJ:Brown Sack
+An elongated brown sack, smelling of hot peppers. Opening it reveals a clove of garlic and a lunch.
+
+OBJ:Glass Bottle
+A clear glass bottle, sitting on the table. The glass bottle contains a quantity of water.
+
+OBJ:Trophy Case
+The trophy case is securely fastened to the wall (perhaps to foil any attempt by robbers to remove it).
+
+OBJ:Brass Lantern
+A battery-powered brass lantern.
+
+OBJ:Newspaper
+An issue of US NEWS & DUNGEON REPORT dated 08/26/04. This version of ZORK has been ported to Inform from the original MDL sources created at MIT, dated 22-Jul-1981. Within the limitations of the Inform libraries, it is fully congruent with the original version from the ARPAnet.
+
+OBJ:Elvish Sword
+On hooks above the mantelpiece hangs an elvish sword of great antiquity. I see nothing special about the sword.
+
+OBJ:Oriental Rug
+A large oriental rug in the center of the room. The rug is extremely heavy and cannot be carried.
+
+OBJ:Wooden Door (Gothic)
+A wooden door with strange gothic lettering to the west, which appears to be nailed shut. The engravings translate to "This space intentionally left blank."
+
+OBJ:Trap Door
+The dusty cover of a closed trap-door. The door reluctantly opens to reveal a rickety staircase descending into darkness.
+
+OBJ:Square Brick
+A square brick which feels like clay.
+
+OBJ:Coil of Rope
+A large coil of rope, lying in the corner.
+
+OBJ:Nasty-Looking Knife
+A nasty-looking knife, sitting on a table.
+
+OBJ:Painting
+On the far wall is a work of unparalleled beauty. I see nothing special about the painting.
+
+OBJ:Small Leaflet
+A small leaflet. WELCOME TO ZORK. ZORK is a game of adventure, danger, and low cunning. In it you will explore some of the most amazing territory ever seen by mortal man. Hardened adventurers have run screaming from the terrors contained within! In ZORK the intrepid explorer delves into the forgotten secrets of a lost labyrinth deep in the bowels of the earth, searching for vast treasures long hidden from prying eyes, treasures guarded by fearsome monsters and diabolical traps! No PDP-10 should be without one! ZORK was created at the MIT Laboratory for Computer Science, by Tim Anderson, Marc Blank, Bruce Daniels, and Dave Lebling. It was inspired by the ADVENTURE game of Crowther and Woods, and the long tradition of fantasy and science fiction adventure. ZORK was originally written in MDL (alias MUDDLE). The current version was translated from MDL into Inform by Ethan Dicks. (c) Copyright 1978,1979 Massachusetts Institute of Technology. All rights reserved.
+
+OBJ:Stone Cube
+A large stone cube, about 10 feet on a side. Engraved on the side of the cube is some lettering reading: Bank of Zork *722 GUE* Frobozz Magic Vault Company.
+
+OBJ:Portrait of J. Pierpont Flathead
+A portrait of J. Pierpont Flathead hangs on the wall.
+
+OBJ:Pearl Necklace
+A pearl necklace with hundreds of large pearls.
+
+OBJ:Wooden Bucket
+A wooden bucket, 3 feet in diameter and 3 feet high. I see nothing special about the wooden bucket.
+
+OBJ:Etchings
+Etchings on the walls of the Circular Room, arranged as symbols: o b o / A G I / E L / m p a.
+
+OBJ:Grail
+An extremely valuable (perhaps original) grail.
+
+OBJ:Brass Bell
+A small brass bell, lying in a corner of the room.
+
+OBJ:Black Book
+A large black book, open to page 569, resting on the altar. COMMANDMENT #12592: Oh ye who go about saying unto each: "Hello sailor": dost thou know the magnitude of thy sin before the gods? Yea, verily, thou shalt be ground between two stones. Shall the angry gods cast thy body into the whirlpool? Surely, thy eye shall be put out with a sharp stick! Even unto the ends of the earth shalt thou wander and unto the land of the dead shalt thou be sent at last. Surely thou shalt repent of thy cunning.
+
+OBJ:Candles
+A pair of burning candles on the two ends of the altar.
+
+OBJ:Pile of Leaves
+A pile of leaves on the ground.
+
+OBJ:Grating
+A grating in the ground, securely fastened and locked. I see nothing special about the grate.
+
+OBJ:Large Tree
+One particularly large tree with some low branches.
+
+OBJ:Birds Nest
+A small birds nest, on the branch. I see nothing special about the birds nest.
+
+OBJ:Jewel-Encrusted Egg
+A large egg encrusted with precious jewels, apparently scavenged somewhere by a childless songbird. The egg is covered with fine gold inlay, and ornamented in lapis lazuli and mother-of-pearl. Unlike most eggs, this one is hinged and has a delicate looking clasp holding it closed. The egg appears extremely fragile.
+
+OBJ:Small Mailbox
+A small mailbox, containing a small leaflet.
+
+OBJ:Rubber Mat
+A rubber mat saying "Welcome to Zork!" lying by the door.
+
+OBJ:Pile of Corpses
+A pile of mangled corpses in one corner. I see nothing special about the pile of bodies.
+
+OBJ:Crypt of the Implementers
+In the north wall of the room is the Crypt of the Implementers. It is made of the finest marble, and apparently large enough for four headless corpses. The crypt is closed.
+
+OBJ:Four Heads on Poles
+Four heads, mounted securely on poles. I see nothing special about the set of poled heads.
+
+OBJ:Pile of Coke Bottles
+A large pile of empty Coke bottles, evidently produced by the implementers during their long struggle to win totally. I see nothing special about the bunch of Coke bottles.
+
+OBJ:Stack of Listings
+A gigantic pile of line-printer output. Although the paper once contained useful information, almost nothing can be distinguished now. It reads: <TELL "FEEL FREE, CHOMPER!">> The rest is, alas, unintelligible (as were the implementers).
+
+OBJ:Free Brochure
+The mailing label on this glossy brochure from MIT Tech reads: Intrepid Adventurer, c/o Local Dungeon Master, White House, GUE. From the Introduction: The brochure describes, for the edification of the prospective student, the stringent but wide-ranging curriculum of MIT Tech. Required courses are offered in Ambition, Distraction, Uglification and Derision. The Humanities are not slighted in this institution, as the student may register for Reeling and Writhing, Mystery (Ancient and Modern), Seaography, and Drawling (which includes Stretching and Fainting in Coils). Advanced students are expected to learn Laughing and Grief. Affixed loosely to the brochure is a small stamp.
+
+OBJ:Wire Coil
+A coil of thin shiny wire. I see nothing special about the wire coil.
+
+OBJ:Glacier
+A mass of ice fills the western half of the room. I see nothing special about the glacier.
+
+OBJ:Gold Coffin
+The solid-gold coffin used for the burial of Ramses II.
+
+OBJ:Wooden Railing
+A wooden railing which circles the dome, protecting you from a precipitous drop. I see nothing special about the wooden railing.
+
+OBJ:Torch
+A flaming torch, made of ivory, sitting on the pedestal.
+
+OBJ:White Marble Pedestal
+A white marble pedestal in the center of the Torch Room.
+
+OBJ:Massive Wooden Door
+On the north side of the room is a massive wooden door, near the top of which, in the center, is a window barred with iron. A formidable bolt lock is set within the door frame. A keyhole covered by a thin metal lid lies within the lock. I see nothing special about the door made of oak.
+
+OBJ:Gnome
+An epicene gnome of Zurich wearing a three-piece suit and carrying a safety-deposit box. "You seem to have forgotten to deposit your valuables," he says, tapping the lid of the box impatiently. "We don't usually allow customers to use the boxes here, but we can make this ONE exception, I suppose..." He looks askance at you over his wire-rimmed bifocals.

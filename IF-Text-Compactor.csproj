@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <!-- Bumped from net8.0: only the .NET 10 runtime is installed on this machine. -->
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>IFTextCompactor</RootNamespace>
+    <AssemblyName>IFTC</AssemblyName>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <!-- Release publish: merge into a single framework-dependent exe (still needs the
+       .NET runtime installed - just no separate .dll/.deps.json/.pdb alongside it).
+       Only takes effect for `dotnet publish`; plain `dotnet build` is unaffected. -->
+  <PropertyGroup Condition="'$(Configuration)'=='Release'">
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <SelfContained>false</SelfContained>
+    <PublishSingleFile>true</PublishSingleFile>
+    <DebugType>embedded</DebugType>
+  </PropertyGroup>
+
+  <!-- Drop the published single-file exe at the project root for convenient direct invocation. -->
+  <Target Name="CopyPublishedExeToProjectRoot" AfterTargets="Publish" Condition="'$(Configuration)'=='Release'">
+    <Copy SourceFiles="$(PublishDir)$(AssemblyName).exe" DestinationFolder="$(MSBuildProjectDirectory)" SkipUnchangedFiles="true" />
+  </Target>
+
+</Project>
